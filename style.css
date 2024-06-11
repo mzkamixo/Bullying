@@ -6,19 +6,19 @@ body{
 }
 
 header{
-  background-color: #1c1fb0;
-  color: #ffffff;
+  background-color: #000000;
+  color: #ff0000;
   padding: 1em 0;
   text-align: center;
 }
 
 nav{
-  background-color: #000000;
+  background-color: #ffffff;
   overflow: hidden;
 }
 
 nav a{
-  color: #ffffff;
+  color: #000000;
   display: block;
   padding: 14px 16px;
   float: left;
